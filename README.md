@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](https://profile-counter.glitch.me/pointoflight/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/pointoflight/count.svg)
